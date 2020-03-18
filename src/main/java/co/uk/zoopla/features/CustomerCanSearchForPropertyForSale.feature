@@ -57,5 +57,5 @@ Feature : Search For Properties For Sale
       | ol8 3lg | 120,000|£230,000|House   | 3+    | House      |
       | ££££££   | 250,000|£400,000|Farm/land|No Min| Property   |
       |  14356   | 120,000|£250,000|   Flat  | 3+   | Flats      |
-      |   | ||    |  |      |
+      | 123  | ||    |  |      |
 
